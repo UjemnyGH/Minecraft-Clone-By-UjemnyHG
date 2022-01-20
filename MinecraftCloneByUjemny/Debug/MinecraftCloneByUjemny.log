@@ -1,0 +1,109 @@
+﻿  MinecraftCloneByUjemny.cpp
+P:\VS project\MinecraftCloneByUjemny\MinecraftCloneByUjemny\perlinNoise.h(27,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+P:\VS project\MinecraftCloneByUjemny\MinecraftCloneByUjemny\perlinNoise.h(133,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+P:\VS project\MinecraftCloneByUjemny\MinecraftCloneByUjemny\perlinNoise.h(230,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+P:\VS project\MinecraftCloneByUjemny\MinecraftCloneByUjemny\perlinNoise.h(226,25): warning C4244: 'return': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+P:\VS project\MinecraftCloneByUjemny\MinecraftCloneByUjemny\perlinNoise.h(239,15): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+P:\VS project\MinecraftCloneByUjemny\MinecraftCloneByUjemny\perlinNoise.h(244,16): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+P:\VS project\MinecraftCloneByUjemny\MinecraftCloneByUjemny\perlinNoise.h(244,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+P:\VS project\MinecraftCloneByUjemny\MinecraftCloneByUjemny\perlinNoise.h(244,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+P:\VS project\MinecraftCloneByUjemny\MinecraftCloneByUjemny\perlinNoise.h(244,25): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+P:\VS project\MinecraftCloneByUjemny\MinecraftCloneByUjemny\perlinNoise.h(249,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+P:\VS project\MinecraftCloneByUjemny\MinecraftCloneByUjemny\perlinNoise.h(250,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+P:\VS project\MinecraftCloneByUjemny\MinecraftCloneByUjemny\perlinNoise.h(260,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+P:\VS project\MinecraftCloneByUjemny\MinecraftCloneByUjemny\perlinNoise.h(261,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+P:\VS project\MinecraftCloneByUjemny\MinecraftCloneByUjemny\perlinNoise.h(263,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+P:\VS project\MinecraftCloneByUjemny\MinecraftCloneByUjemny\perlinNoise.h(273,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+P:\VS project\MinecraftCloneByUjemny\MinecraftCloneByUjemny\perlinNoise.h(278,15): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+P:\VS project\MinecraftCloneByUjemny\MinecraftCloneByUjemny\perlinNoise.h(278,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+P:\VS project\MinecraftCloneByUjemny\MinecraftCloneByUjemny\perlinNoise.h(278,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+P:\VS project\MinecraftCloneByUjemny\MinecraftCloneByUjemny\perlinNoise.h(278,24): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+P:\VS project\MinecraftCloneByUjemny\MinecraftCloneByUjemny\perlinNoise.h(283,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+P:\VS project\MinecraftCloneByUjemny\MinecraftCloneByUjemny\perlinNoise.h(284,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+P:\VS project\MinecraftCloneByUjemny\MinecraftCloneByUjemny\perlinNoise.h(294,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+P:\VS project\MinecraftCloneByUjemny\MinecraftCloneByUjemny\perlinNoise.h(295,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+P:\VS project\MinecraftCloneByUjemny\MinecraftCloneByUjemny\perlinNoise.h(297,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+P:\VS project\MinecraftCloneByUjemny\MinecraftCloneByUjemny\chunks.h(113,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+P:\VS project\MinecraftCloneByUjemny\MinecraftCloneByUjemny\text.h(293,26): warning C4018: '<=': signed/unsigned mismatch
+P:\VS project\MinecraftCloneByUjemny\MinecraftCloneByUjemny\text.h(299,60): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+P:\VS project\MinecraftCloneByUjemny\MinecraftCloneByUjemny\text.h(300,60): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+P:\VS project\MinecraftCloneByUjemny\MinecraftCloneByUjemny\text.h(311,60): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+P:\VS project\MinecraftCloneByUjemny\MinecraftCloneByUjemny\text.h(312,60): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+P:\VS project\MinecraftCloneByUjemny\MinecraftCloneByUjemny\text.h(323,60): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+P:\VS project\MinecraftCloneByUjemny\MinecraftCloneByUjemny\text.h(324,60): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+P:\VS project\MinecraftCloneByUjemny\MinecraftCloneByUjemny\text.h(335,60): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+P:\VS project\MinecraftCloneByUjemny\MinecraftCloneByUjemny\text.h(336,60): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+P:\VS project\MinecraftCloneByUjemny\MinecraftCloneByUjemny\text.h(347,60): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+P:\VS project\MinecraftCloneByUjemny\MinecraftCloneByUjemny\text.h(348,60): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+P:\VS project\MinecraftCloneByUjemny\MinecraftCloneByUjemny\text.h(359,60): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+P:\VS project\MinecraftCloneByUjemny\MinecraftCloneByUjemny\text.h(360,60): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+P:\VS project\MinecraftCloneByUjemny\MinecraftCloneByUjemny\MinecraftCloneByUjemny.cpp(44,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+P:\VS project\MinecraftCloneByUjemny\MinecraftCloneByUjemny\MinecraftCloneByUjemny.cpp(45,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+P:\VS project\MinecraftCloneByUjemny\MinecraftCloneByUjemny\MinecraftCloneByUjemny.cpp(47,11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+P:\VS project\MinecraftCloneByUjemny\MinecraftCloneByUjemny\MinecraftCloneByUjemny.cpp(48,11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+P:\VS project\MinecraftCloneByUjemny\MinecraftCloneByUjemny\MinecraftCloneByUjemny.cpp(175,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+P:\Visual Studio 2022 Preview\VC\Tools\MSVC\14.30.30423\include\numeric(35,27): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+P:\VS project\MinecraftCloneByUjemny\MinecraftCloneByUjemny\perlinNoise.h(232): message : see reference to function template instantiation '_Ty std::accumulate<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<int>>>,double,Perlin1D::get_noise::<lambda_93c74142419736901c646af0a7ae1ac9>>(const _InIt,const _InIt,_Ty,_Fn)' being compiled
+          with
+          [
+              _Ty=double,
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<int>>>,
+              _Fn=Perlin1D::get_noise::<lambda_93c74142419736901c646af0a7ae1ac9>
+          ]
+  MinecraftCloneByUjemny.vcxproj -> P:\VS project\MinecraftCloneByUjemny\Debug\MinecraftCloneByUjemny.exe
